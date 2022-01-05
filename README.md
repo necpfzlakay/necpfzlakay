@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @necpfzlakay
 - 👀 I’m interested in Full Stack Developing
-- 🌱 I’m currently learning Angular, C++, React Native and etc.
+- 🌱 I’m currently learning React Native and Node.js
 - 💞️ I’m looking to collaborate on Front end or Back end projects
 - 📫 How to reach me akaynecip@gmail.com or www.necipfazilakay.com
 
