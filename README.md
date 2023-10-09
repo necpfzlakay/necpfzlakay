@@ -6,7 +6,7 @@ Full Stack Developer
 
 * 🖥️  See my portfolio at [necipfazilakay.com](http://necipfazilakay.com)
 * ✉️  You can contact me at [akaynecip@gmail.com](mailto:akaynecip@gmail.com)
-* 🚀  I'm currently working on [Sellmify](http://sellmify.com)
+* 🚀  I'm currently working on [Wirecash](https://wirecash.com)
 * 🧠  I'm learning Node.Js and PyTorch
 
 <a href="https://www.github.com/necpfzlakay" target="_blank" rel="noreferrer"><img
