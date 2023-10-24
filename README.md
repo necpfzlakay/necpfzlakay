@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=necpfzlakay&show_icons=true&theme=merko&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="necpfzlakay" /></p>
 
-//<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=necpfzlakay&show_icons=true&locale=en" alt="necpfzlakay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=necpfzlakay&show_icons=true&locale=en" alt="necpfzlakay" /></p>
