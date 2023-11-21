@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Wirecash](wirecash.com)
 
-- 🌱 I’m currently learning **Cloud and Back-end services**
+- 🌱 I’m currently learning **Back-end and DevOps**
 
 - 👯 I’m looking to collaborate on [react-native-custom-toptabs](https://github.com/necpfzlakay/react-native-custom-toptabs)
 
