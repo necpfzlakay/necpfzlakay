@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Necip Fazil</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Wirecash](wirecash.com)
+- 🔭 I’m currently working on [Genius99](https://genius99.com/)
 
 - 🌱 I’m currently learning **Back-end and DevOps**
 
